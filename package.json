@@ -1,0 +1,29 @@
+{
+  "name": "webpack-mddialog-bootstrap",
+  "version": "0.0.1",
+  "description": "Webpack Angular Material Dialog Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codigi/webpack-mddialog-bootstrap.git"
+  },
+  "keywords": [
+    "webpack",
+    "angular",
+    "material",
+    "mddialog",
+    "bootstrap"
+  ],
+  "author": "Atanas Palavrov <palavrov@codigi.net> (http://codigi.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codigi/webpack-mddialog-bootstrap/issues"
+  },
+  "homepage": "https://github.com/codigi/webpack-mddialog-bootstrap#readme",
+  "dependencies": {
+    "webpack-angular-material": "0.0.2"
+  }
+}
