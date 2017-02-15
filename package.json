@@ -1,6 +1,6 @@
 {
   "name": "webpack-mddialog-bootstrap",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Webpack Angular Material Dialog Bootstrap",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/codigi/webpack-mddialog-bootstrap#readme",
   "dependencies": {
-    "webpack-angular-material": "0.1.0"
+    "webpack-angular-material": "0.2.0"
   }
 }
