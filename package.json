@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/codigi/webpack-mddialog-bootstrap#readme",
   "dependencies": {
-    "webpack-angular-material": "0.2.0"
+    "webpack-angular-material": "0.3.0"
   }
 }
